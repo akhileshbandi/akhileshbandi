@@ -2,7 +2,7 @@
            
     A strong believer that security is a process and not a project.
 
-    An enthusiastic débutant in France with a goal to pursue growth as his as my own ideal.
+    An enthusiastic débutant in France with a goal to pursue growth as my own ideal.
 
     Masters in Computer Security at a Grande Ecole that values tasks done more than text written in concepts like Social Engineering, PenTesting, Digital Forensics, Unix Administration, PKI, Cryptology, Software/Web Vulnerability Auditing & Reporting.
 
