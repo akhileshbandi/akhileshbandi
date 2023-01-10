@@ -12,10 +12,6 @@
              
     Working in any of the growing industries like neo-banking, i-gaming, blockchain, quantum computing and every industry moving to the cloud and influencing the cloud security landscape.
     
-- 🌱 I’m currently learning ...
-
-    IAM and SIEM tools
-    
 - 📫 How to reach me ...
              
     akhileshbandi.com/contact
